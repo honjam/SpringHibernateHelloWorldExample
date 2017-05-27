@@ -1,0 +1,7 @@
+com\levin\core\HibernateMain.class
+com\levin\service\impl\MessageService.class
+com\levin\model\DBUser.class
+com\levin\model\Message.class
+com\levin\util\HibernateUtil.class
+com\levin\App.class
+com\levin\service\IMessageService.class
